@@ -1,0 +1,6 @@
+[default]
+stock_alert_value = 5
+low_stock_quantity = 15
+
+plus_activity = ["Exchange", "Return", "Tally Stock"]
+minus_activity = ["Exchange", "Damage", "Own Use", "Return Purchase", "Tally Stock"]

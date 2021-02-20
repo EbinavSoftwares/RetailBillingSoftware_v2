@@ -1,0 +1,1 @@
+pyinstaller --windowed --noconsole --icon=C:\Users\ekt4864\PycharmProjects\sshp_v2\images\logo.ico main.py

@@ -1,0 +1,27 @@
+
+             SS Fashion Tuty             
+       Thalamuthu Nagar Main Road        
+   Koilpillaivilai, Tuticorin - 628002   
+         Contact: +91 9942380164         
+
+ Cashier:              Date: 01-Feb-2021 
+ Bill No: 1            Time: 09:43:34 AM 
+
+-----------------------------------------
+ #       Item      Qty  Price   Amount 
+-----------------------------------------
+ 1  Shorts_Testing  1    130.0     130.0
+    - Cotton 'XXL'                      
+
+-----------------------------------------
+    SubTotal        1              130.0
+-----------------------------------------
+    Discount                         0.0
+
+-----------------------------------------
+    Total                         130.00
+-----------------------------------------
+
+
+         Thank You & Visit again         
+
